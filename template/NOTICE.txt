@@ -1,0 +1,3 @@
+서식.hwpx 의 기본 HWPX 뼈대(Skeleton)는 python-hwpx 에서 가져와 만들었습니다.
+python-hwpx — Copyright 2025-2026 airmang — Apache License 2.0
+https://www.apache.org/licenses/LICENSE-2.0
